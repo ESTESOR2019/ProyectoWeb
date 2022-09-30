@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<aplicaciones>
+
+
+	<sirevia>
+		<connectionstring>
+			Password=51r3v1a_2015.;User id=userSirevia_Test;Initial Catalog=SIREVIA_TEST;Data Source=10.201.0.95;
+		</connectionstring>
+
+	</sirevia>
+
+
+</aplicaciones>

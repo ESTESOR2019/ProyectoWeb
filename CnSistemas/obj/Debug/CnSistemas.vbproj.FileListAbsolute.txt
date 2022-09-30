@@ -1,0 +1,14 @@
+D:\Culpina\ProyectoWeb\CnSistemas\bin\Debug\CnSistemas.dll
+D:\Culpina\ProyectoWeb\CnSistemas\bin\Debug\CnSistemas.pdb
+D:\Culpina\ProyectoWeb\CnSistemas\bin\Debug\CnSistemas.xml
+D:\Culpina\ProyectoWeb\CnSistemas\bin\Debug\ServidordeDatosnet.dll
+D:\Culpina\ProyectoWeb\CnSistemas\bin\Debug\ServidordeDatosnet.pdb
+D:\Culpina\ProyectoWeb\CnSistemas\bin\Debug\ServidordeDatosnet.xml
+D:\Culpina\ProyectoWeb\CnSistemas\obj\Debug\CnSistemas.vbprojAssemblyReference.cache
+D:\Culpina\ProyectoWeb\CnSistemas\obj\Debug\CnSistemas.Resources.resources
+D:\Culpina\ProyectoWeb\CnSistemas\obj\Debug\CnSistemas.vbproj.GenerateResource.cache
+D:\Culpina\ProyectoWeb\CnSistemas\obj\Debug\CnSistemas.vbproj.CoreCompileInputs.cache
+D:\Culpina\ProyectoWeb\CnSistemas\obj\Debug\CnSistemas.vbproj.CopyComplete
+D:\Culpina\ProyectoWeb\CnSistemas\obj\Debug\CnSistemas.dll
+D:\Culpina\ProyectoWeb\CnSistemas\obj\Debug\CnSistemas.xml
+D:\Culpina\ProyectoWeb\CnSistemas\obj\Debug\CnSistemas.pdb
